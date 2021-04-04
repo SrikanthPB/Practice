@@ -2,4 +2,5 @@ I am on my master branch
 I am on my child branch
 making changes to my child branch
 My master branch has all new changes 
-comitting in my master branch
+comitting in my master branch 
+changes done at origin
