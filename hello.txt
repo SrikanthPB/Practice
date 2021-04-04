@@ -1,6 +1,2 @@
-
-I am on my master branch
-
+I am on my master branch 
 I am on my child branch
-
-
